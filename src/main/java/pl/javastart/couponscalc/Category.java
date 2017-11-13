@@ -2,6 +2,6 @@ package pl.javastart.couponscalc;
 
 public enum Category {
 
-    FOOD, HOME, CAR, ENTERTAINMENT;
+    FOOD, HOME, CAR, ENTERTAINMENT, OTHER;
 
 }
